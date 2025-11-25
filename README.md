@@ -112,10 +112,4 @@ python client.py
 
 Now you can chat with the bot directly in your terminal!
 
-📂 Project Structure
 
-.
-├── main.py           # The heart of the app (API, DB logic, Bot logic)
-├── client.py         # A simple script to chat with the bot in the terminal
-├── chat_sessions.db  # (Auto-generated) Stores chat history
-└── README.md         # This documentation
